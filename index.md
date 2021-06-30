@@ -1,7 +1,7 @@
 ### CBR / Deep Learning Solution Service
 - CBR(Case Based Reasoning, 사례기반추론)은 과거의 가장 유사한 사례(Best Case)를 찾아서 문제해결에 적용하는 AI 프로세스입니다.
 - 노하우 재사용 및 Best Match 시스템 구축에 최적인 CBR 솔루션을 제공합니다.
-- [CBR / Deep Learning 소개자료입니다.](/ai-intro-v1.2.0.pdf)
+- [CBR / Deep Learning 소개자료입니다.](/ai-intro-v1.3.0.pdf)
 
 ### 김해성 Profile
 
