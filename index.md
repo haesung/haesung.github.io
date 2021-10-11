@@ -1,6 +1,6 @@
 ### Optimal Machine Learning Solution Service
 - 문제해결에 가장 적합한 Machine Learning 기술을 적용합니다
-- [Machine Learning 소개자료입니다.](/ai-intro-v1.4.0.pdf)
+- [AI / Machine Learning 소개자료입니다.](/ai-intro-v1.4.0.pdf)
 
 ### 김해성 Profile
 
