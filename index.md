@@ -4,7 +4,7 @@
 
 ### 김해성 Profile
 
-#### 넥스트온 S/W개발 부사장
+#### 넥스트온 부사장 S/W개발
 - Indoor Farm 재배노하우 재사용 (CBR)
 - Indoor Farm 재배조건 최적화 (Optimization)
 #### 헬스맥스 AI Architect
