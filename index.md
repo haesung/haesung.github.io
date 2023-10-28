@@ -15,6 +15,7 @@
 #### 노하우플러스 CBR 솔루션
 - CBR 유사도검색 기능을 AWS lambda function으로 제공
 - [CBR 시스템 프로토타입 개발도구](https://haesung.github.io/smw-151/)
+  
 ---
 ### 김해성 Profile
 #### 노하우플러스 대표
