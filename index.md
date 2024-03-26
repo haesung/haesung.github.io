@@ -1,8 +1,6 @@
 ### CBR (Case-Based Reasoning 사례기반추론)
 - 노하우(암묵지)를 구조화된 사례(형식지)로 시스템에 저장하고
 - 문제 발생시 유사도검색을 통해 문제 상황과 가장 비슷한 사례(해결책) 제시
-- [CBR 소개자료](/cbr-intro-v7.1.pdf)
-- [AI 소개자료](/ai-intro-v4.1.pdf)
 #### 장점
 - DB 쿼리와 달리 100% 일치안해도 해결책 제시
 - 설명가능한 AI 로서 믿을만한 실제 사례 제시
@@ -17,6 +15,8 @@
 - 사례모델링 및 사례DB구축 컨설팅
 - CBR FaaS (유사도검색 API)
 - CBR Proto (Rapid Prototyping)
+- [CBR 소개자료](/cbr-intro-v7.1.pdf)
+- [AI 소개자료](/ai-intro-v4.1.pdf)
   
 ---
 ### 김해성 Profile
