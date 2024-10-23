@@ -15,8 +15,8 @@
 - CBR모델링 및 사례DB구축 컨설팅
 - CBR FaaS (유사도검색 API)
 - CBR Proto (Rapid Prototyping)
-- [CBR 소개자료](/cbr-intro-v7.1.pdf)
-- [AI 소개자료](/ai-intro-v4.3.pdf)
+- [CBR 소개자료](/cbr-intro-v7.3.pdf)
+- [AI 소개자료](/ai-intro-v4.4.pdf)
   
 ---
 ### 김해성 Profile
