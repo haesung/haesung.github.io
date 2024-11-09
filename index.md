@@ -12,11 +12,10 @@
 - 회사 노하우 내재화 → 기술지원, A/S, 의료, 보건 분야 등 성공사례 재사용
 - 개인 맞춤형 검색 →  상품, 부동산 추천 등 필터링이 아닌 종합 유사도검색
 #### 노하우플러스 CBR 솔루션
-- CBR모델링 및 사례DB구축 컨설팅
-- CBR FaaS (유사도검색 API)
-- CBR Proto (Rapid Prototyping)
-- [CBR 소개자료](/cbr-intro-v7.3.pdf)
-- [AI 소개자료](/ai-intro-v4.4.pdf)
+- CBR 모델링 컨설팅
+- CBR 유사도검색 API
+- CBR Proto (Rapid Prototyping Tool)
+- [AI/CBR 소개자료](/ai-intro-v4.5.pdf)
   
 ---
 ### 김해성 Profile
