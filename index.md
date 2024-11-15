@@ -15,7 +15,7 @@
 - CBR 모델링 컨설팅
 - CBR 유사도검색 API
 - CBR Proto (Rapid Prototyping Tool)
-- [AI/CBR 소개자료](/ai-intro-v4.5.pdf)
+- [AI/CBR 소개자료](/ai-intro-v4.6.pdf)
   
 ---
 ### 김해성 Profile
