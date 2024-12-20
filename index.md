@@ -13,9 +13,9 @@
 - 개인 맞춤형 추천 →  개인 취향에 가장 잘 맞는 상품, 부동산 등 추천
 #### 노하우플러스 CBR 솔루션
 - CBR 시스템구축 컨설팅
-- CBRagent 서버 → 모델생성, 추론, 사례추가/제거 기능을 웹API로 제공
-- CBRproto 웹앱 → CBRagent 웹API를 이용한 Rapid Prototyping 도구
-- [AI/CBR 소개자료](/ai-intro-v5.pdf)
+- CBRserver → 모델생성, 추론, 사례추가/제거 기능을 웹API로 제공
+- CBRproto 웹앱 → CBRserver 웹API를 이용한 Rapid Prototyping 도구
+- [AI/CBR 소개자료](/ai-intro-v5.1.pdf)
   
 ---
 ### 김해성 Profile
