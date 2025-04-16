@@ -15,7 +15,7 @@
 - CBR 시스템구축 컨설팅
 - CBRserver → 추론, 사례추가/제거 기능을 웹API로 제공
 - CBRproto 웹앱 → CBRserver 웹API를 이용한 Rapid Prototyping 도구
-- [AI/CBR 소개자료](/ai-intro-v5.3.pdf)
+- [AI/CBR 소개자료](/ai-intro-v5.4.pdf)
   
 ---
 ### 김해성 Profile
