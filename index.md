@@ -12,7 +12,7 @@
 #### CBR 솔루션
 - CBR 모델링, 사례베이스 구축, 시스템 개발
 - CBR 서버 → 유사도추론, 사례추가/제거 기능을 웹API로 제공
-- [AI/CBR 소개자료](/ai-intro-v5.4.pdf)
+#### [AI/CBR 소개자료](/ai-intro-v5.4.pdf)
   
 ---
 ### 김해성 Profile
