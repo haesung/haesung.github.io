@@ -15,6 +15,7 @@
 #### [AI/CBR 소개자료](/ai-intro-v5.5.pdf)
   
 ---
+![김해성](./haesung.png)
 ### 김해성 Profile
 #### 미래안보산업전략연구원 AI 총괄 연구위원
 - 방위산업, 식량안보 혁신을 위한 AI/CBR 솔루션 제공
@@ -41,4 +42,14 @@
 #### 연세대학교
 - 화공생명공학과 학사
 
+---
+Haesung Kim is an accomplished AI and software professional with a strong background in both technology and international business.
+
+He began his career as a software developer, contributing to Macintosh System Software at Apple in California. He holds a Master's in Computer Science from Oregon State University and a Bachelor's in Chemical Engineering from Yonsei University in Seoul Korea.
+
+His international experience includes serving as Country Manager for Lotus(IBM) Professional Service, where he consulted on knowledge management for major clients like GS Caltex, POSCO, and KT. He also managed US and Japan business operations as a Director at Solborn Inc. and worked on massive solar power plant projects as an agent for Japan's ORIX Corporation.
+
+As an AI expert, he has developed his own Case-Based Reasoning (CBR) server and is highly skilled in creating AI models. He has led the development of various AI services for sharing and reusing knowledge in fields such as healthcare, medical, vertical farming, and army operations. His expertise lies in using AI to solve complex real-world problems.
+
+---
 [문의 이메일 hskim352@gmail.com](mailto:hskim352@gmail.com)
