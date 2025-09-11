@@ -15,7 +15,7 @@
 #### [AI/CBR 소개자료](/ai-intro-v5.5.pdf)
   
 ---
-![김해성](./haesung.png)
+![김해성](./haesung.jpg)
 ### 김해성 Profile
 #### 미래안보산업전략연구원 AI 총괄 연구위원
 - 방위산업, 식량안보 혁신을 위한 AI/CBR 솔루션 제공
